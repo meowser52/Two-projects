@@ -1,0 +1,5 @@
+PyQt5==5.15.7
+wikipedia
+matplotlib
+pyqtdarktheme
+
